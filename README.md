@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishavdeep Kaur</h1>
+<h1 align="center">Hi 👋, I'm Ishav </h1>
 <h3 align="center">"Hooked on code, Addicted to tech!"</h3>
 
 - 🌱 I’m currently learning **Web Development**

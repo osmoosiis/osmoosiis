@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ikailey1101@gmail.com**
 
-- ⚡ Fun fact **A witty Sucker for knowledge .**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

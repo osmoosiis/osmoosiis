@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishav </h1>
 <h3 align="center">"Hooked on code, Addicted to tech!"</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Currently Exploring **Web2 & Web3**
 
 - 📫 How to reach me **ikailey1101@gmail.com**
 
